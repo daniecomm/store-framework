@@ -63,10 +63,7 @@
       "initialSelection": "empty",
       "showValueNameForImageVariation": true,
       "showValueForVariation": "all",
-      "showVariationsLabels": true,
-      "displayMode": "select",
-      "showVariationsErrorMessage": true,
-      "visibility": "more-than-one"
+      "showVariationsErrorMessage": true
     }
   }
 }
