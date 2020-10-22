@@ -54,9 +54,8 @@
   },
   "product-brand": {
     "props": {
-      "height": 30,
       "displayMode": "logo",
-      "logoWithLink": true
+      "height": 30
     }
   },
   "sku-selector": {
@@ -65,7 +64,8 @@
       "showValueForVariation": "all",
       "showVariationsLabels": true,
       "displayMode": "select",
-      "showVariationsErrorMessage": true
+      "showVariationsErrorMessage": true,
+      "visibility": "more-than-one"
     }
   }
 }
