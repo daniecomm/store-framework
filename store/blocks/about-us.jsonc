@@ -94,7 +94,11 @@
     "props": {
       "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
       "width": "800",
-      "height": "1000"
+      "height": "1000",
+      "width": "1000",
+      "height": "800",
+      "width": 1000,
+      "height": 800
     }
   }
 }
